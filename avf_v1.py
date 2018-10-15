@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 10 14:20:56 2018
-@author: sunan
-"""
 
 from pyspark import SparkContext
 from operator import add
